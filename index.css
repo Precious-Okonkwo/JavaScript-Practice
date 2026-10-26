@@ -1,0 +1,26 @@
+.intro-js {
+    background-color: blue;
+    color: white;
+    padding: 2rem 1rem;
+    font-size: 3rem;
+}
+
+.name-js {
+    background-color: blueviolet;
+    color: black;
+    padding: 1rem 5rem;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+#create-text {
+    color: blue;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+#display-count {
+    font-size: 5rem;
+    font-weight: 800;
+    color: blueviolet;
+}
